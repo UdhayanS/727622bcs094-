@@ -1,0 +1,13 @@
+table {
+  border-radius: 0.75rem;
+  overflow: hidden;
+}
+
+td, th {
+  vertical-align: middle !important;
+}
+
+img.rounded-circle {
+  object-fit: cover;
+}
+
